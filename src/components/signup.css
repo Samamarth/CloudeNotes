@@ -1,0 +1,48 @@
+.s-heading{
+   text-align: center;
+   margin-top: 2rem; 
+   border-bottom: 1px solid white;
+}
+
+.leftright{
+    display: flex;
+}
+
+.s-left{
+    margin-left: 10rem;
+}
+
+.s-right{
+    margin-left: 5rem;
+}
+
+.g-box:hover{
+    background-color: #0766ff;
+    color:white;
+    border: #0766ff;
+}
+
+.gt-box:hover{
+    background-color: #1f1f1f;
+    color:white;
+    border: #1f1f1f;
+}
+
+
+.orobj{
+   
+    margin-top: 3.3rem;
+    margin-left: 5rem;
+    height: 30rem;
+
+    font-size: 1.5rem;
+    
+    
+}
+.hline{
+    width: 1.5px; 
+      background-color: white; 
+      height: 11rem;
+      margin-left: 1rem;
+ 
+}
